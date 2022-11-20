@@ -14,5 +14,4 @@ void Kub(int n)
     }
 }
 
-
 Kub(x);
